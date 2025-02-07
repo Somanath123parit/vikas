@@ -4,4 +4,16 @@ class jk {
     }
 
     System.out.print("Local change");
-}
+}class jk {
+    public static void main(String [] args) {
+        // main method code here
+    }
+
+    System.out.print("Local change");
+}class jk {
+    public static void main(String [] args) {
+        // main method code here
+    }
+
+    System.out.print("Local change");
+}sxsx
