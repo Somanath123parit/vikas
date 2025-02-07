@@ -1,15 +1,7 @@
-class jk{
+class jk {
+    public static void main(String [] args) {
+        // main method code here
+    }
 
-
-public static void main(String [] args){
-
-}
-
-
-
-
-System.out.print("hhhhhh");
-
-
-
+    System.out.print("Local change");
 }
