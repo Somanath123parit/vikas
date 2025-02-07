@@ -1,12 +1,14 @@
 class jk{
 
 
-psvm
+public static void main(String [] args){
+
+}
 
 
 
 
-hhhhhh
+System.out.print("hhhhhh");
 
 
 
